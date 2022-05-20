@@ -1,5 +1,6 @@
 # HackerSet
-https://github.com/RESIKESH/Hackerset/blob/main/scripts/HackerSet-logos.jpeg size=150
+
+<img src="https://github.com/RESIKESH/Hackerset/blob/main/scripts/HackerSet-logos.jpeg" width="128"/>
 A collection of tools and scripts I use for Capture the Flags, HackTheBox, and Penetration Testing.
 
 ## Elements
